@@ -181,10 +181,14 @@ padding: 7px 12px;
 
 /* <!-- **********Participants-details******** --> */
 
-#details {
+
+.wow.fadeInLeft.col-md-4.col-sm-4.detail {
   background: #222;
   color: #ffffff;
-  height: 20rem;
+  height: 17rem;
+}
+#details {
+
 }
 
 #details .fa {
