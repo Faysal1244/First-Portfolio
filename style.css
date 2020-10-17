@@ -182,20 +182,22 @@ padding: 7px 12px;
 /* <!-- **********Participants-details******** --> */
 
 
-.wow.fadeInLeft.col-md-4.col-sm-4.detail {
-  background: #222;
-  color: #ffffff;
-  height: 17rem;
-}
-#details {
 
+#details{
+  background: #222;
+  width: 100%;
 }
 
 #details .fa {
 color: #f2545f;
 font-size: 48px;
 }
-
+.wow.fadeInLeft.col-md-4.col-sm-4.detail {
+  background: #222;
+  color: #ffffff;
+  height: 17rem;
+  width: auto;
+}
 .detail{
   margin-top: 4rem;
   text-align: center;
